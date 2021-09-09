@@ -1,3 +1,8 @@
+#Problem Set 1c
+#Name: Sheetal kumari
+#Time Spent : 6 hours
+
+
 balance = float(input("Enter the outstanding balance on the credit card: "))
 ann_interest_rt = float(input("Enter the annual interest rate as a decimal: "))
 monthly_interest_rt = ann_interest_rt/12.0
