@@ -1,4 +1,4 @@
-#Proble set - 2d
+#Proble set - 2
 #name -Sheetal kumari
 #time spent - 2 days
 
